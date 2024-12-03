@@ -39,9 +39,9 @@ O modelo revelou informações cruciais para a tomada de decisão estratégica d
 ###  Recomendações Estratégicas
 
 1. #### Fortalecimento do Programa de Associação
-* **Benefícios adicionais para membros antigos**: introduzir benefícios exclusivos, como descontos progressivos com o tempo de associação.<br>
-* **Engajamento contínuo**: promover interações frequentes, como newsletters personalizadas e convites para eventos exclusivos.
-* **Fidelização e recompensas**: implementar um programa de pontos que incentive compras recorrentes e longas associações.
+* Benefícios adicionais para membros antigos: introduzir benefícios exclusivos, como descontos progressivos com o tempo de associação.<br>
+* Engajamento contínuo: promover interações frequentes, como newsletters personalizadas e convites para eventos exclusivos.<br>
+* Fidelização e recompensas: implementar um programa de pontos que incentive compras recorrentes e longas associações.
 
 2. #### Foco no Aplicativo Móvel:
 
