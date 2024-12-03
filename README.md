@@ -37,7 +37,13 @@ O modelo revelou informações cruciais para a tomada de decisão estratégica d
 * Por outro lado, o tempo gasto no website foi excluído do modelo devido à sua baixa relevância estatística e ausência de correlação com os gastos, indicando uma necessidade de melhora na experiÊncia do cliente via plataforma web site.
 
 ###  Recomendações Estratégicas
-#### Foco no Aplicativo Móvel:
+
+1. #### Fortalecimento do Programa de Associação
+* **Benefícios adicionais para membros antigos**: introduzir benefícios exclusivos, como descontos progressivos com o tempo de associação.<br>
+* **Engajamento contínuo**: promover interações frequentes, como newsletters personalizadas e convites para eventos exclusivos.
+* **Fidelização e recompensas**: implementar um programa de pontos que incentive compras recorrentes e longas associações.
+
+2. #### Foco no Aplicativo Móvel:
 
 * Investir em melhorias de interface e funcionalidades.
 Oferecer promoções e descontos exclusivos para usuários do app.
