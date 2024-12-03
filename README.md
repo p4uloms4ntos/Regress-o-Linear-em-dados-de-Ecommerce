@@ -53,4 +53,4 @@ Focar em integração com o aplicativo para uma experiência omnichannel.
 
 #
 
-Para entender como essas conclusões foram alcançadas, acompanhe o desenvolvimento do problema de negócio proposto, algoritmo criados e técnicas utilizadas clicando [aqui](https://github.com/p4uloms4ntos/Regressao-Linear-em-dados-de-Ecommerce/blob/main/regressao-linear-projeto.ipynb). 
+Para entender como essas conclusões foram alcançadas, acompanhe o desenvolvimento do problema de negócio proposto, algoritmo criados e técnicas utilizadas clicando [aqui](https://github.com/p4uloms4ntos/Regress-o-Linear-em-dados-de-Ecommerce/blob/main/regressao-linear-projeto.ipynb). 
