@@ -29,7 +29,7 @@ O tempo gasto no website mostrou correlação mínima com os gastos anuais, indi
 O modelo apresentou um R² de 98,4%, indicando que a variabilidade do gasto anual dos clientes foi explicada de forma robusta pelas variáveis analisadas.
 
 # Conclusão
-O modelo revelou informações cruciais para a tomada de decisão estratégica da empresa:
+O modelo revelou informações relevantes para a tomada de decisão estratégica da empresa:
 
 * Tempo de Associação (Length of Membership): Cada mês adicional de associação contribui com um aumento médio de $61,27 no gasto anual por cliente.
 * Tempo no Aplicativo (Time on App): Cada minuto adicional gasto no app está associado a um incremento médio de $38,59.
